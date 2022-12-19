@@ -1,0 +1,2 @@
+# monBlog
+symfony+easyAdmin+translator
